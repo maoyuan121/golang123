@@ -4,8 +4,8 @@ import (
 	"strings"
     "unicode/utf8"
     "os"
-	"github.com/shen100/golang123/config"
-	"github.com/shen100/golang123/utils"
+	"golang123/config"
+	"golang123/utils"
     "github.com/satori/go.uuid"
 )
 

@@ -37,7 +37,7 @@
 		"UploadImgDir"        : "",
 		"ImgPath"             : "/upload/img",        /*上传后的图片请求地址前缀*/
 		"MaxMultipartMemory"  : 3, /*上传的图片最大允许的大小，单位MB*/
-		"Port"                : 8023,                 /*go监听的端口*/
+		"Port"                : 8024,                 /*go监听的端口*/
 		"StatsEnabled"        : false, /*是否开启数据统计功能, 开启的话要安装mongodb*/
 		"TokenSecret"         : "Jxa26iOirBiYX8iLCJuYm5iy", /*TokenSecret，请修改*/
 		"TokenMaxAge"         : 86400, /*token多久过期，单位秒*/

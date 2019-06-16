@@ -4,7 +4,6 @@ let url = config.apiURL
 if (typeof window === 'undefined') {
     url = config.backApiURL
 }
-
 const api = {
     sendUserVisit: { // 发送用户访问记录
         url: url + '/stats/visit',
